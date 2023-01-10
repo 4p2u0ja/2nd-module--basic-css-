@@ -1,0 +1,11 @@
+.header{height: 500px;
+background-image: url('1532556.png');
+/* background-image: url('../images/Screenshot\ \(4\).png'); */
+
+background-size: 30%;}
+/* ai kahne (../) ar mane hoilo css ar folder e pic na nie o oi ta use kore pic add kora jay . r (../) use na korle pic css file je khane se khane nie aste hobe */
+h3{color: green;
+text-decoration-line: overline;}
+p{color: blue;}
+.s{font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
